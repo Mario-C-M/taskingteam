@@ -1,8 +1,9 @@
 <?php
+include 'includes/funciones/funciones.php';
 include 'includes/templates/header.php';
 ?>
 
-<body class="login">
+
     <div class="contenedor-formulario">
         <h1>UpTask</h1>
         <form id="formulario" class="caja-login" method="post">

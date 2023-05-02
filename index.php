@@ -1,10 +1,12 @@
 <?php
+include 'includes/funciones/funciones.php';
 include 'includes/templates/header.php';
 ?>
 
 <body>
 
-<h1>Hola Mundo</h1>
+<span>Hello World</span>
+
 <div class="barra">
     <h1>TASKTEAM</h1>
     <a href="#">Cerrar Sesión</a>
