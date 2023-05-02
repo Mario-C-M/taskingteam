@@ -73,6 +73,6 @@ include 'includes/templates/header.php';
 
 <script src="js/sweetalert2.all.min.js"></script>
 
-
-</body>
-</html>
+<?php
+include 'includes/templates/footer.php';
+?>
